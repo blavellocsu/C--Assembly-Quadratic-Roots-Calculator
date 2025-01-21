@@ -1,6 +1,6 @@
 # C++ and Assembly Quadratic Roots Calculator
 
-This project is a simple C++ program that incorporates inline x86 Assembly to calculate the roots of a quadratic equation of the form *ax² + bx + c = 0*. :contentReference[oaicite:0]{index=0}
+This project is a simple C++ program that incorporates inline x86 Assembly to calculate the roots of a quadratic equation of the form *ax² + bx + c = 0*. 
 
 ## Features
 
